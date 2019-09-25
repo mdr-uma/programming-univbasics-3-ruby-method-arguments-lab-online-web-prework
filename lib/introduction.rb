@@ -17,7 +17,7 @@
 # introduction_with_language("Uma" , "Ruby")
 
 def introduction_with_language_optional(name,language)
-  puts "Hi my name is #{name} and I am learning to program in #{language = "Ruby"}."
+  puts "Hi my name is #{name} and I am learning to program in #{language = "Python"}."
 end
 
 introduction_with_language_optional("Edwin", "Ruby")
